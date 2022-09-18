@@ -1,0 +1,19 @@
+{
+  "name": "bokebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio-mixer": "^2.1.4",
+    "msr": "^1.3.4",
+    "node-fetch": "^3.2.10",
+    "qrcode-terminal": "^0.12.0",
+    "sox-audio": "^0.3.0",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
